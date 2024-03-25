@@ -4,14 +4,13 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        exo: ["Exo", "sans-serif"],
-        roboto: ["Roboto", "sans-serif"],
-        lato: ["Lato", "sans-serif"],
-        nunito: ["Nunito Sans", "sans-serif"],
+        title: ["Bebas Neue", "sans-serif"],
+        subtitle: ["Figtree", "sans-serif"],
+        grotesk: ["Hanken Grotesk", "sans-serif"],
       },
       colors: {
         primary: "#330066",
-        secondary:'#4299e1'
+        secondary: "#4299e1",
       },
     },
   },
